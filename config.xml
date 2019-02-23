@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" ?>
     <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "pixelkid'squestmobileedition.sonicboygaming_xbox.edu.mit.scratch"
+        id          = "pixelkid'smoneyclicker2.sonicboygaming.edu.mit.scratch"
         versionCode = "10" 
         version     = "1.0.0" >
 
     <!-- versionCode is optional and Android only -->
 
-    <name>Pixelkid's Quest: Mobile Edition</name>
+    <name>Pixelkid's Money Clicker 2</name>
 
     <description>
         An app made using Scratch, GitHub, and PhoneGap.
     </description>
 
-    <author href="https://scratch.mit.edu/users/SonicboyGaming_Xbox/" email="ian.1248653@nv.ccsd.net">
+    <author href="https://scratch.mit.edu/users/SonicboyGaming/" email="ian.1248653@nv.ccsd.net">
         SonicboyGaming
     </author>
 
